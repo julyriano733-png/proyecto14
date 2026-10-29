@@ -1,10 +1,10 @@
 body {
   font-family: Arial, sans-serif;
-  background-color: #eef2f3;
+  background-color: #ebb0e3;
 }
 
 .caja {
-  background-color: white;
+  background-color: rgb(162, 5, 120);
   max-width: 400px;
   margin: 50px auto;
   padding: 25px;
@@ -24,8 +24,8 @@ button {
   padding: 10px;
   margin-top: 10px;
   font-size: 16px;
-  color: white;
-  background-color: #555;
+  color: rgb(245, 127, 194);
+  background-color: #c30a57;
   border: none;
   border-radius: 6px;
 }
